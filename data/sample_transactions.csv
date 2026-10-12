@@ -1,0 +1,8 @@
+trans_date_trans_time,category,amt,state,trans_num,is_fraud
+2023-01-01 10:00:00,grocery,25.00,CA,txn-001,0
+2023-01-02 12:00:00,travel,399.99,CA,txn-002,0
+2023-01-03 11:30:00,shopping,120.00,NY,txn-003,0
+2023-02-05 14:20:00,grocery,80.00,NY,txn-004,0
+2023-02-07 20:00:00,travel,450.00,TX,txn-005,1
+2023-02-08 08:00:00,entertainment,75.00,TX,txn-006,0
+2023-02-09 09:00:00,food,40.00,CA,txn-007,0

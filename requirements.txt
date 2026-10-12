@@ -1,0 +1,2 @@
+kafka-python>=2.0.2,<3.0
+clickhouse-connect>=0.8.15,<1.0

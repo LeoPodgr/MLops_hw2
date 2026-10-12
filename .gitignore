@@ -1,0 +1,9 @@
+# Local Kaggle data: don't commit potentially large/licensed files.
+data/*.csv
+!data/sample_transactions.csv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+results/category_max_by_state.csv
+.DS_Store
